@@ -1,4 +1,6 @@
 # Software-Manual-Testing
+
+
 ##Upohar Bd website manual testing, test report, Bug report, test metric and Mind mapping
 ###Testcase holds Module, Feature, type of testing, Expected result, Actual result, test data, test steps, Bug Screenshot, Status, Remarks
 ###Test case holds test execution report which contain number of pass, fail, execution, out of scope and total test cases.
